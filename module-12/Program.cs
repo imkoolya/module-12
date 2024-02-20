@@ -19,7 +19,7 @@ class Program
         Thread.Sleep(3000);
     }
 
-    static void UserGreetings(List<User> users)
+    static void Greetings(List<User> users)
     {
         foreach (User user in users)
         {
